@@ -1,2 +1,2 @@
-# ARD-Net[TGRS 2026 Major]
+# ARD-Net
 A method for improving atmospheric temperature and humidity parameter inversion
